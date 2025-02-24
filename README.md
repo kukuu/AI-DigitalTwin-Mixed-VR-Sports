@@ -23,12 +23,12 @@ Convert real-world data into a Digital Twin, an AI-generated virtual replica tha
 
 1. Digital Twin & Predictive Analytics
 
-i. AI-driven real-time performance tracking, providing insights into strengths, weaknesses, and areas for improvement.
+    i. AI-driven real-time performance tracking, providing insights into strengths, weaknesses, and areas for improvement.
 
-ii. Predictive modelling that anticipates player decisions and suggests optimal movement patterns.
+    ii. Predictive modelling that anticipates player decisions and suggests optimal movement patterns.
 
 
-iii. Synthetic data simulations to replicate various defensive and attacking scenarios tailored to individual playing styles.
+    iii. Synthetic data simulations to replicate various defensive and attacking scenarios tailored to individual playing styles.
 
 2. Visual Cues & Ghosted Foot Patterns
 
