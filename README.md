@@ -1,8 +1,9 @@
-# Case Study:  AI, Digital Twin, Mixed and Virtual Reality for Sports
+# AI, Digital Twin, Mixed and Virtual Reality for Sports
 
 AI-Powered Mixed Reality Training for DBX London
 
-## Introduction
+## Case Study
+
 DBX London, a high-intensity 3v3 football tournament, aims to revolutionize training by integrating Artificial Intelligence (AI), Digital Twin technology, and Mixed Reality (MR). This phased initiative will enhance skill development through real-world data transformation, predictive analysis, and immersive VR training environments.
 
 
