@@ -23,33 +23,33 @@ Convert real-world data into a Digital Twin, an AI-generated virtual replica tha
 
 1. Digital Twin & Predictive Analytics
 
-    i. AI-driven real-time performance tracking, providing insights into strengths, weaknesses, and areas for improvement.
+      i. AI-driven real-time performance tracking, providing insights into strengths, weaknesses, and areas for improvement.
 
-    ii. Predictive modelling that anticipates player decisions and suggests optimal movement patterns.
+      ii. Predictive modelling that anticipates player decisions and suggests optimal movement patterns.
 
 
-    iii. Synthetic data simulations to replicate various defensive and attacking scenarios tailored to individual playing styles.
+      iii. Synthetic data simulations to replicate various defensive and attacking scenarios tailored to individual playing styles.
 
 2. Visual Cues & Ghosted Foot Patterns
 
-    i. AI-enhanced directional arrows guide players through optimal movement paths.
+      i. AI-enhanced directional arrows guide players through optimal movement paths.
 
-    ii. Highlighted tactical zones for better decision-making in key areas of play.
-
-
-    iii. Adaptive timing indicators, adjusting difficulty based on player progress.
+      ii. Highlighted tactical zones for better decision-making in key areas of play.
 
 
-    iv. Ghosted motion trails to reinforce correct technique and muscle memory.
+      iii. Adaptive timing indicators, adjusting difficulty based on player progress.
+
+
+      iv. Ghosted motion trails to reinforce correct technique and muscle memory.
 
 
 3. Interactive AI Training Adjustments
    
-    i. Real-time AI-driven feedback for instant skill corrections.
+      i. Real-time AI-driven feedback for instant skill corrections.
 
-    ii. Adaptive difficulty levels, ensuring continuous improvement.
+      ii. Adaptive difficulty levels, ensuring continuous improvement.
 
-    iii. Game scenario simulations that dynamically adjust based on player reactions and choices.
+      iii. Game scenario simulations that dynamically adjust based on player reactions and choices.
 
 
 ## Implementation in DBX London
@@ -70,9 +70,9 @@ Collaboration with Data Scientists and Engineers in the UK, India, and Canada wi
 
 ### Phase 3: Full Mixed Reality Deployment & Real-World Application
 
-i. Integrate MR overlays on physical training sessions.
+    i. Integrate MR overlays on physical training sessions.
 
-ii. Test AI-generated drills in live DBX London matches.
+    ii. Test AI-generated drills in live DBX London matches.
 
-iii. Expand to additional player groups based on pilot success.
+    iii. Expand to additional player groups based on pilot success.
 
