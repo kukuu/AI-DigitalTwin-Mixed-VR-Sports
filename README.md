@@ -32,12 +32,12 @@ Convert real-world data into a Digital Twin, an AI-generated virtual replica tha
 
 2. Visual Cues & Ghosted Foot Patterns
 
-i. AI-enhanced directional arrows guide players through optimal movement paths.
+    i. AI-enhanced directional arrows guide players through optimal movement paths.
 
-ii. Highlighted tactical zones for better decision-making in key areas of play.
-
-
-iii. Adaptive timing indicators, adjusting difficulty based on player progress.
+    ii. Highlighted tactical zones for better decision-making in key areas of play.
 
 
-iv. Ghosted motion trails to reinforce correct technique and muscle memory.
+    iii. Adaptive timing indicators, adjusting difficulty based on player progress.
+
+
+    iv. Ghosted motion trails to reinforce correct technique and muscle memory.
