@@ -7,7 +7,7 @@ AI-Powered Mixed Reality Training for DBX London
 DBX London, a high-intensity 3v3 football tournament, aims to revolutionize training by integrating Artificial Intelligence (AI), Digital Twin technology, and Mixed Reality (MR). This phased initiative will enhance skill development through real-world data transformation, predictive analysis, and immersive VR training environments.
 
 
-## AI-Driven Digital Twin: A Phased Approach
+### AI-Driven Digital Twin: A Phased Approach
 The implementation will follow a structured, phased approach:
 - Real Data Capture:
   Collect real-world player performance data using motion sensors, tracking cameras, and smart wearables.
@@ -20,9 +20,9 @@ Convert real-world data into a Digital Twin, an AI-generated virtual replica tha
 - VR Instance Development: Develop a VR training environment based on the Digital Twin model, allowing players to train in a highly adaptive, AI-driven simulation before transitioning to real-world execution.
 
 
-## Key Features of MR Training with AI Integration
+### Key Features of MR Training with AI Integration
 
-### 1. Digital Twin & Predictive Analytics
+#### 1. Digital Twin & Predictive Analytics
 
       i. AI-driven real-time performance tracking, providing insights into strengths, weaknesses, and areas for improvement.
 
@@ -31,7 +31,7 @@ Convert real-world data into a Digital Twin, an AI-generated virtual replica tha
 
       iii. Synthetic data simulations to replicate various defensive and attacking scenarios tailored to individual playing styles.
 
-### 2. Visual Cues & Ghosted Foot Patterns
+#### 2. Visual Cues & Ghosted Foot Patterns
 
       i. AI-enhanced directional arrows guide players through optimal movement paths.
 
@@ -44,7 +44,7 @@ Convert real-world data into a Digital Twin, an AI-generated virtual replica tha
       iv. Ghosted motion trails to reinforce correct technique and muscle memory.
 
 
-### 3. Interactive AI Training Adjustments
+#### 3. Interactive AI Training Adjustments
    
       i. Real-time AI-driven feedback for instant skill corrections.
 
@@ -53,23 +53,23 @@ Convert real-world data into a Digital Twin, an AI-generated virtual replica tha
       iii. Game scenario simulations that dynamically adjust based on player reactions and choices.
 
 
-## Implementation in DBX London
+### Implementation in DBX London
 
 Collaboration with Data Scientists and Engineers in the UK, India, and Canada will ensure cutting-edge AI and MR integration. The project will be rolled out in three phases:
 
-### Phase 1: Data Collection & Digital Twin Development
+#### Phase 1: Data Collection & Digital Twin Development
 
     i. Deploy smart wearables (Xsens, Player maker) and AI-powered tracking cameras.
 
     ii. Use machine learning to process real-world player data and generate the Digital Twin model.
 
-### Phase 2: AI-Powered Predictive Analysis & VR Training Integration
+#### Phase 2: AI-Powered Predictive Analysis & VR Training Integration
 
     i. Train the AI model using real and synthetic data to refine player performance insights.
 
     ii. Implement VR-based training modules using the Digital Twin framework.
 
-### Phase 3: Full Mixed Reality Deployment & Real-World Application
+#### Phase 3: Full Mixed Reality Deployment & Real-World Application
 
     i. Integrate MR overlays on physical training sessions.
 
@@ -79,7 +79,7 @@ Collaboration with Data Scientists and Engineers in the UK, India, and Canada wi
 
 
 
-## Required Equipment & Estimated Costs
+### Required Equipment & Estimated Costs
 
 | **Equipment** | **Purpose**         | **Estimated Costs (Per Unit)**               |
 |--------|------------------|------------------------|
