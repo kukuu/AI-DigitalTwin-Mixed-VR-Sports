@@ -1,4 +1,4 @@
-# AI Mixed Reality and Virtual Reality for Sports
+# AI, Digital Twin, Mixed and Virtual Reality
 
 Case Study: AI-Powered Mixed Reality Training for DBX London
 
