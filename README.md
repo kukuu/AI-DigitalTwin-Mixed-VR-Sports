@@ -82,9 +82,9 @@ Collaboration with Data Scientists and Engineers in the UK, India, and Canada wi
 
 | **Equipment** | **Purpose**         | **Estimated Costs (Per Unit)**               |
 |--------|------------------|------------------------|
-| 1      | John Doe         | Software Engineer      |
-| 2      | Jane Smith       | Data Scientist         |
-| 3      | Alex Johnson     | Product Manager        |
-| 4      | Emily Brown      | DevOps Engineer        |
-| 5      | Michael Davis    | Frontend Developer     |
-| 6      | Sarah Wilson     | UX Designer            |
+|AI-Powered Tracking Cameras (Veo, Player maker Pro)     | John Doe         | Software Engineer      |
+| Wearable Motion Sensors (Xsens, Player maker)      | Jane Smith       | Data Scientist         |
+| VR Headsets (Meta Quest 3, HTC Vive)      | Alex Johnson     | Product Manager        |
+| MR Headsets (HoloLens 2, Meta Quest Pro)      | Emily Brown      | DevOps Engineer        |
+| High-Performance Laptops/Servers      | Michael Davis    | Frontend Developer     |
+| Cloud AI & Machine Learning Software      | Sarah Wilson     | UX Designer            |
