@@ -76,3 +76,15 @@ Collaboration with Data Scientists and Engineers in the UK, India, and Canada wi
 
     iii. Expand to additional player groups based on pilot success.
 
+
+
+## Required Equipment & Estimated Costs
+
+| **Equipment** | **Purpose**         | **Estimated Costs**               |
+|--------|------------------|------------------------|
+| 1      | John Doe         | Software Engineer      |
+| 2      | Jane Smith       | Data Scientist         |
+| 3      | Alex Johnson     | Product Manager        |
+| 4      | Emily Brown      | DevOps Engineer        |
+| 5      | Michael Davis    | Frontend Developer     |
+| 6      | Sarah Wilson     | UX Designer            |
