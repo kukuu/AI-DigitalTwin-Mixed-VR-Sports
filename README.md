@@ -80,7 +80,7 @@ Collaboration with Data Scientists and Engineers in the UK, India, and Canada wi
 
 ## Required Equipment & Estimated Costs
 
-| **Equipment** | **Purpose**         | **Estimated Costs**               |
+| **Equipment** | **Purpose**         | **Estimated Costs (Per Unit)**               |
 |--------|------------------|------------------------|
 | 1      | John Doe         | Software Engineer      |
 | 2      | Jane Smith       | Data Scientist         |
