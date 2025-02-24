@@ -21,7 +21,7 @@ Convert real-world data into a Digital Twin, an AI-generated virtual replica tha
 
 ## Key Features of MR Training with AI Integration
 
-1. Digital Twin & Predictive Analytics
+### 1. Digital Twin & Predictive Analytics
 
       i. AI-driven real-time performance tracking, providing insights into strengths, weaknesses, and areas for improvement.
 
@@ -30,7 +30,7 @@ Convert real-world data into a Digital Twin, an AI-generated virtual replica tha
 
       iii. Synthetic data simulations to replicate various defensive and attacking scenarios tailored to individual playing styles.
 
-2. Visual Cues & Ghosted Foot Patterns
+### 2. Visual Cues & Ghosted Foot Patterns
 
       i. AI-enhanced directional arrows guide players through optimal movement paths.
 
@@ -43,7 +43,7 @@ Convert real-world data into a Digital Twin, an AI-generated virtual replica tha
       iv. Ghosted motion trails to reinforce correct technique and muscle memory.
 
 
-3. Interactive AI Training Adjustments
+### 3. Interactive AI Training Adjustments
    
       i. Real-time AI-driven feedback for instant skill corrections.
 
