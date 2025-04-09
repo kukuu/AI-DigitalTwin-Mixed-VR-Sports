@@ -89,3 +89,7 @@ Collaboration with Data Scientists and Engineers in the UK, India, and Canada wi
 | MR Headsets (HoloLens 2, Meta Quest Pro)      | Real-world training overlays      | xxx        |
 | High-Performance Laptops/Servers      | MAI processing & Digital Twin development    | xxx     |
 | Cloud AI & Machine Learning Software      | Predictive analytics & synthetic data generation     | xxx            |
+
+
+### Resources
+- VEO Tracking Software: https://www.veo.co/sport/basketball?utm_source=google&utm_medium=cpc&utm_campaign=22364935614&creative=741285524859&campaignid=22364935614&adgroupid=180526315161&keyword=camera%20to%20record%20basketball%20games&gad_source=1
