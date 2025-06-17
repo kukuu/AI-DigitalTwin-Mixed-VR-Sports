@@ -1,6 +1,6 @@
 # AI, Digital Twin, Mixed and Virtual Reality for Sports
 
-AI-Powered Mixed Reality Training for DBX London 
+AI-Powered Mixed Reality Training for DBX London  
 
 ## Case Study
 
